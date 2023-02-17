@@ -1,0 +1,10 @@
+{
+    "PORT": 8000,
+    "DB_CONNECT": "mongodb+srv://param:param@cluster0.ffzn9d1.mongodb.net/myDb?retryWrites=true",
+    "JWT_SECRET_KEY": "gfg_jwt_secret_key",
+    "TOKEN_HEADER_KEY": "gfg_token_header_key",
+    "PASSWORD_SECRET_KEY": "secret key 123",
+    "USER_EMAIL": "patelparmanand708@gmail.com",
+    "USER_PASS": "lghgjquveotshmbo",
+    "FRONTEND_URL": "http://localhost:3000/resetpassword"
+}

@@ -1,0 +1,31 @@
+const message  = {
+    Failed: 0,
+    OK: 1,
+    Success: "Success",
+    FULL_NAME_REQ :"Full name is required.",
+    ALREAY_CREATE: "Already register.",
+    REQUIRED_FIELD_MISSING: "Required field is missing.",
+    PASSWORD_NOT_MATCH: "Please Enter correct password.",
+    CHECK_EMAIL_PASS:"Please check email & password.",
+    SOMETHING_WENT_WRONG: "Something went wrong.",
+    INVALID_ID_PWD: "Email and password does not match.",
+    NO_ACCOUNT_FOUND: "Account not found.",
+    ACCOUNT_SUCC_PASSWORD_MATCH:
+      "You already registred with our platform,please use existing password.",
+    EMAIL_ALREADY_EXISTS: "E-mail address already exists.",
+    EMAIL_NOT_EXISTS: "Please enter correct email.",
+    Pass_REQ :"Password is required",
+    EMAIL_REQR :"Email is required",
+    PASSWORD :"Password is required",
+    PASSWORD_Not_MATCH_ :"password not match please check it.",
+    CONF_PASSWORD :"Conformpassword is required",
+    FORGOT_PASSWORD: "Forgot Password",
+    PSWD_UPDATED_SUCC: "Password updated successfully.",
+    PLZ_TRY_AGAIN: "Please try again.",
+    USER_UPDATED_SUCC: "User details updated successfully.",
+    NO_PAGE_FOUND: "Page not found",
+    NO_Data_: "No data found",
+    Id_REQ: "Id is required",
+  };
+
+  module.exports.message = message
